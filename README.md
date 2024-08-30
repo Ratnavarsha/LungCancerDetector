@@ -1,2 +1,27 @@
-# LungCancerDetector
-The Lung Cancer Detector is a Convolutional Neural Network (CNN)-based model designed to assist in the early diagnosis of lung cancer through automated analysis of CT scan images.
+# Lung Cancer Detector
+
+## Project Overview
+The Lung Cancer Detector is a machine learning project aimed at early diagnosis of lung cancer by analyzing CT scan images using a Convolutional Neural Network (CNN) model. This project automates the process of distinguishing between malignant and normal lung scans, aiding healthcare professionals in making quick and accurate decisions.
+
+## Key Features
+- **High Accuracy:** Achieves high classification accuracy in identifying malignant and normal lung CT scans.
+- **Automated Diagnosis:** Streamlines the diagnostic process, reducing the need for manual image analysis.
+- **User-Friendly Interface:** Provides a simple web-based interface to upload CT scans and view results.
+
+## Technologies Used
+- **Programming Languages:** Python, JavaScript
+- **Machine Learning Libraries:** TensorFlow, Keras, OpenCV, NumPy
+- **Web Development:** HTML, CSS, JavaScript
+
+## Installation and Setup
+### Prerequisites
+- Python 3.x installed on your system.
+- Virtual environment setup recommended.
+- Necessary Python libraries: TensorFlow, Keras, OpenCV, NumPy.
+- Web development tools: HTML, CSS, JavaScript.
+
+### Installation
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Ratnavarsha/lung-cancer-detector.git
+   cd lung-cancer-detector
